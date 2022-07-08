@@ -77,15 +77,18 @@ Meu primeiro desafio
     - Irá aparecer a mensagem que foi criada
     - Digite  git remote -v 
     - Irá aparecer 2 linhas: origin https (fetch e push)
+    - Digite git commit -m "instalar as alterações README" e enter
     - Digite git push origin master(or main) e enter
+    - aparecerá uma mensagen enumerating .....
 
     
 
     No GITHUB
 
     - Faça uma atualização (refresh)  
-
+    - Clique no repositório e ele estará atualizado 
     
-
+    
+    
      
 
