@@ -1,5 +1,5 @@
-# dio-desafio-github-primeiro
-Meu primeiro desafio
+# Dio-desafio-github-primeiro
+Meu primeiro desafio ----  Passo a passo de como fazer GITHUB - GIT DASH - GITHUB
 
 ##     Passo 1 abrir conta no github: :school:
 
