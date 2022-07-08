@@ -65,7 +65,7 @@ Meu primeiro desafio ----  Passo a passo de como fazer GITHUB - GIT DASH - GITHU
 
   - O README.md estará em verde.
 
-    # Passo 4 Modificando arquivo README com extensão .md(MARKDOWN), com o software TYPORA 
+    ## Passo 4 Modificando arquivo README com extensão .md(MARKDOWN), com o software TYPORA 
 
     - Baixe e instale o software TYPORA
     - Abra e trabalhe como queira o arquivo README.md
@@ -73,7 +73,7 @@ Meu primeiro desafio ----  Passo a passo de como fazer GITHUB - GIT DASH - GITHU
   
     
   
-    # Passo 4 Transferir do GIT Dash para o GITHUB
+    #$ Passo 5 Transferir do GIT Dash para o GITHUB
   
     No GIT Dash  
   
