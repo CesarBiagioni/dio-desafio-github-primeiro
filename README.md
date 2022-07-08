@@ -28,15 +28,25 @@ Meu primeiro desafio
   ## Passo 3  transferir para a máquina local :calling:
 
   - Abra o git dash; 
+  
   - Crie um diretório, digite;                         git mkdir workspace      e enter;
+  
   - Digite ls  e o diretório workspace estará listado;
+  
   - Digite cd workspace e enter
+  
   - Você iniciará os trabalhos na pasta workspace 
+  
   - Clone o repositório que você criou no GITHUB no workspace
+
   - Digite git clone https://github.com/CesarBiagioni/dio-desafio-github-primeiro.git e enter
+
   - Aguarde carregar
+
   - Digite ls e enter
+
   - Seu repositório irá aparecer
+
   - Digite cd  e o nome do repositório                 cd dio-desafio-github-primeiro     e enter  
 
   - Você iniciará os trabalhos na pasta workspace/ dio-desafio-github-primeiro (main)
@@ -48,7 +58,7 @@ Meu primeiro desafio
   - Digite git status e enter
 
   - Nada irá aparecer pois terá que colocar na fase STAGED, ou estará em vermelho;
-
+  
   - Digite     git add *    e enter 
 
   - Digite  git status e enter 
@@ -60,13 +70,13 @@ Meu primeiro desafio
     - Baixe e instale o software TYPORA
     - Abra e trabalhe como queira o arquivo README.md
     - Salve as alterações  
-
+  
     
-
+  
     # Passo 4 Transferir do GIT Dash para o GITHUB
-
+  
     No GIT Dash  
-
+  
     - Digite   git status e enter
     - O README aparecerá em vermelho pois vc alterou
     - Digite   git add *   e enter
@@ -80,13 +90,19 @@ Meu primeiro desafio
     - Digite git commit -m "instalar as alterações README" e enter
     - Digite git push origin master(or main) e enter
     - aparecerá uma mensagen enumerating .....
-
+  
     
-
+  
     No GITHUB
-
+  
     - Faça uma atualização (refresh)  
     - Clique no repositório e ele estará atualizado 
+    
+    
+    
+    Caso faça qualquer alteração no README terá que refazer o passo 4 inteiro.
+    
+    
     
     
     
